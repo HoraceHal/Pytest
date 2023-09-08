@@ -28,6 +28,6 @@ myAddress = '北京市朝阳区'
 
 print('=========名片=========')
 print('姓名：%s' % myName)
-print('QQ：%d' % myQQ)
+print('QQ:%d' % myQQ)
 print('手机号：%d' % myTel)
 print('公司地址：%s' % myAddress)
